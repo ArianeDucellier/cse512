@@ -1,0 +1,17 @@
+name: cse512
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - altair
+  - vega
+  - vega_datasets
+  - folium
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+
+
